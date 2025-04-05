@@ -2,7 +2,7 @@
 
 ### Мои проекты:
 - [Разработка веб приложения на языке Java](https://github.com/DoctorZub/web_office_java/)
-- Bash-скрипты для автоматизации рутинных задач в OS Linux Ubuntu
+- [Bash-скрипты для автоматизации рутинных задач в OS Linux Ubuntu](https://github.com/DoctorZub/bash_scripts/)
 
 <!--
 **DoctorZub/DoctorZub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
