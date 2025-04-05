@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello! 👋
+
+### Мои проекты:
+- Разработка веб приложения на языке Java
+- Bash-скрипты для автоматизации рутинных задач в OS Linux Ubuntu
 
 <!--
 **DoctorZub/DoctorZub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
